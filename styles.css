@@ -1,9 +1,17 @@
 h1{
     color:red;
 }
-h3{
+h2{
     color:purple;
 }
-p{
+.movie{
     color:lightblue;
+}
+img{
+    width:300px;
+    height:400px;
+    border:dashed white;
+}
+body{
+    text-align:center;
 }
