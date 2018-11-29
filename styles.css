@@ -5,7 +5,7 @@ h2{
     color:purple;
 }
 .movie{
-    color:lightblue;
+    color:blue;
 }
 img{
     width:300px;
@@ -14,4 +14,13 @@ img{
 }
 body{
     text-align:center;
+}
+p{
+    color:orange;
+}
+body{
+    background-color:lightgreen;
+}
+h1{
+    font-family: 'Black Han Sans', sans-serif;
 }
